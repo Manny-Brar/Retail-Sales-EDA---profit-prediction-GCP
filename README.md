@@ -6,7 +6,7 @@
 
 ![Data Infrastructure](bandicam 2021-01-26 16-23-24-215.jpg)
 
-![SARIMA Model](bandicam 2021-01-26 16-24-06-702.jpg)
+![SARIMA Model](https://github.com/Manny-Brar/Retail-Sales-EDA---profit-prediction/blob/main/bandicam%202021-01-26%2016-24-06-702.jpg)
 
 
 
